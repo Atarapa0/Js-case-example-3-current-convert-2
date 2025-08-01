@@ -2,7 +2,7 @@
 
 Bu proje, gerçek zamanlı döviz kurları ile para birimi çevirme işlemi yapabilen modern bir web uygulamasıdır.
 
-![Döviz Çevirici Ekran Görüntüsü](screenshot.png)
+![Döviz Çevirici Ekran Görüntüsü](/assets/img/image.png)
 
 ## Özellikler
 
