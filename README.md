@@ -320,7 +320,7 @@ copies or substantial portions of the Software.
 ## İletişim ve Destek
 
 📧 **E-posta**: [email@domain.com]  
-🐙 **GitHub**: https://github.com/[kullanici-adi]/Js-case-example-3-current-convert-2  
+🐙 **GitHub**: https://github.com/Atarapa0/Js-case-example-3-current-convert-2  
 🌐 **Website**: [Henüz deploy edilmedi]  
 💬 **İletişim**: [İletişim bilgileri buraya eklenecek]
 
