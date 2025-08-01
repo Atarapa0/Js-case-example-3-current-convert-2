@@ -46,7 +46,7 @@ Uygulama minimalist ve kullanıcı dostu bir tasarıma sahiptir:
 
 1. Projeyi klonlayın:
 ```bash
-git clone https://github.com/[kullanici-adi]/Js-case-example-3-current-convert-2.git
+git clone https://github.com/Atarapa0/Js-case-example-3-current-convert-2.git
 cd Js-case-example-3-current-convert-2
 ```
 
