@@ -1,0 +1,52 @@
+[
+  {
+    "Code": "USD",
+    "Name": "Amerikan Doları",
+    "LastUpdate": "01/07/2025 14:06",
+    "BuyingPrice": 39.262401,
+    "SellingPrice": 40.438499,
+    "Change": 0.0018320719296954923,
+    "Type": "exchange",
+    "DailyChangePercent": 20
+  },
+  {
+    "Code": "EUR",
+    "Name": "Avrupa Para Birimi - Euro",
+    "LastUpdate": "01/07/2025 14:06",
+    "BuyingPrice": 46.369313,
+    "SellingPrice": 47.762187,
+    "Change": 0.009782447782890339,
+    "Type": "exchange",
+    "DailyChangePercent": -10
+  },
+  {
+    "Code": "GBP",
+    "Name": "İngiliz Sterlini",
+    "LastUpdate": "01/07/2025 14:06",
+    "BuyingPrice": 54.10083,
+    "SellingPrice": 55.88737,
+    "Change": 0.008786676851091451,
+    "Type": "exchange",
+    "DailyChangePercent": 5
+  },
+  {
+    "Code": "XAU",
+    "Name": "Altın (Gram)",
+    "LastUpdate": "01/07/2025 14:06",
+    "BuyingPrice": 4209.126725,
+    "SellingPrice": 4429.981975,
+    "Change": 0.0220223849749251,
+    "Type": "exchange",
+    "DailyChangePercent": -12
+  },
+  {
+    "Code": "XAG",
+    "Name": "Gümüş (Gram)",
+    "LastUpdate": "01/07/2025 14:06",
+    "BuyingPrice": 45.903956,
+    "SellingPrice": 47.771444,
+    "Change": 0.016573098328384057,
+    "Type": "exchange",
+    "DailyChangePercent": 10
+  }
+]

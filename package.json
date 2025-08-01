@@ -1,0 +1,13 @@
+{
+  "name": "doviz-hesaplama",
+  "version": "1.0.0",
+  "scripts": {
+    "build-css": "npx lessc /js_deneme/assets/css/style.less /js_deneme/assets/css/style.css"
+  },
+  "devDependencies": {
+    "less": "^4.4.0"
+  },
+  "dependencies": {
+    "bootstrap-less": "^3.3.8"
+  }
+}
